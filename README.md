@@ -52,8 +52,6 @@ O prompt foi desenvolvido considerando:
 6. **Formato de saída** — tabela estruturada;
 7. **Restrições** — utilização exclusiva dos dados fornecidos e ausência de informações inventadas.
 
-O prompt completo está disponível em [`prompt/prompt_analise_feedbacks.md`](prompt/prompt_analise_feedbacks.md).
-
 ---
 
 ## Estrutura da análise
